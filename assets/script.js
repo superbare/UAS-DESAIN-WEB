@@ -1,4 +1,4 @@
-ocument.addEventListener("DOMContentLoaded", function() {
+document.addEventListener("DOMContentLoaded", function() {
     
     // --- 1. Logika Greeting Otomatis Berdasarkan Waktu ---
     const greetingElement = document.getElementById("greeting-text");
